@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
 .header {
 	display: flex;
 	flex-direction: column;
+  font-family: 'Roboto', sans-serif;
 }
 
+.header-logo {
+  font-family: 'Roboto', sans-serif;
+}
 .upper-header {
   display: flex;
   justify-content: space-between;
