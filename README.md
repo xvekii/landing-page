@@ -18,3 +18,8 @@ The image of:
 - code by by Pexels from Pixabay
 
 - monkey by Peter Fische from Pixabay
+Image of Maldives by David Mark from Pixabay
+Image of the train by Image by annca from Pixabay
+ Image of Bali  by Sushuti from Pixabay
+Image of Hvar by Oliver Ash on Unsplash
+Image of message in a bottle  by Marcos Vinicius Rodrigues Lima from Pixabay
