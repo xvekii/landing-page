@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
+body {
+  margin: 0;
+  padding: 10px;
+  background: #1F2937;
+}
 .header {
 	display: flex;
 	flex-direction: column;
@@ -10,16 +15,29 @@
 .upper-header {
   display: flex;
   justify-content: space-between;
+  margin: 0px 70px;
+}
+
+.right-links {
+  display: flex;
+  gap: 50px;
 }
 
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  
 }
 
 a, p, h1, .header-logo {
   text-decoration: none;
   color: #e5e7eb;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0 0;
 }
