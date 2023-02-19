@@ -168,3 +168,43 @@ p.quote {
   text-align: end;
   font-weight: bold;
 }
+
+.bottom {
+  background: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 100px;
+}
+
+.call-to-action {
+  background: #3882f6;
+  width: 600px;
+  padding: 10px 120px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 7px;
+}
+
+.cta-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.button2 {
+  background: #3882f6;
+  color: #e5e7eb;
+  font-weight: bold;
+  font-size: 16px;
+  border: 2px solid white;
+  border-radius: 7px;
+  padding: 8px 33px;
+  margin: 10px 0px;
+}
+
+.time-to-travel-title {
+  font-weight: bold;
+  font-size: 20px;
+}
