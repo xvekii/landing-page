@@ -109,7 +109,9 @@ h2 {
   margin-top: 50px;
   font-size: 36px;
   font-weight: extra-bold;
-  color: hsl(53, 100%, 33%);
+  /* color: hsl(270, 20%, 21%); */
+  /* color: hsl(53, 100%, 33%); */
+  color: hsl(53, 99%, 36%);
   text-align: center;
   padding-bottom: 15px;
 }
