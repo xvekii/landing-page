@@ -129,7 +129,7 @@ h2 {
   justify-content: center;
   align-items: center;
   gap: 45px;
-  
+  margin-bottom: 100px;
 }
 
 .box {
@@ -139,4 +139,21 @@ h2 {
 .text {
   padding-top: 5px;
   text-align: center;
+  font-family: sans-serif, 'Times New Roman', Times, serif;
+  color: rgb(159, 127, 84)
+}
+
+.quote-section {
+  background: #e5e7ebd3;
+  display: flex;
+  justify-content: center;
+  padding: 70px 200px;
+}
+
+p.quote {
+  color:#1F2937;
+  font-family: sans-serif, 'Times New Roman', Times, serif;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
 }
