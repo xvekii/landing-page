@@ -11,20 +11,19 @@ body {
 	flex-direction: column;
   font-family: 'Roboto', sans-serif;
   background: #1F2937;
-  
 }
 
 .upper-header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 80px;
+  margin: 0px 0px 80px 36px;
   padding-top: 10px;
 }
 
 .right-links {
   display: flex;
   gap: 50px;
-  margin-right: 88px;
+  margin-right: 120px;
 }
 
 .header-content {
@@ -111,7 +110,6 @@ h2 {
   font-size: 36px;
   font-weight: extra-bold;
   color: hsl(270, 20%, 21%);
-  /* color: hsl(53, 99%, 36%); */
   text-align: center;
   padding-bottom: 15px;
 }
